@@ -8,7 +8,7 @@ that the element is not in the array.
 If interested in my aproach, please take a look at the following post
 in my blig:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/12/17/binary-search-in-java/
 
 Keep in mind that reading and experimenting is the best way to learn.
 
